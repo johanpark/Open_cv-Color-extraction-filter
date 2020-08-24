@@ -4,6 +4,7 @@ It works only when a webcam is installed. If you want to use an image
 
 Lines 59 to 63 are the code to find the webcam, and you can change it to an image
 Like 
+
 Mat img = imread("Target_image.jpg"); 
 
 ----------------------------------------------
